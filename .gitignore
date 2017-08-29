@@ -4,3 +4,4 @@
 /SAPOData.framework
 /SAPFoundation.framework
 /SAPOfflineOData.framework
+*.framework

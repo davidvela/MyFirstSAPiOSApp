@@ -6,4 +6,6 @@
 /SAPOfflineOData.framework
 *.framework
 # test
-README.md 
+
+
+#untrack changes: git rm --cached FILENAME

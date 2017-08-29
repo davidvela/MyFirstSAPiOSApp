@@ -1,4 +1,4 @@
-# My First App in SAP Cloud Platform SDK for iOS Mobile App.
+# My First App in SAP Cloud Platform SDK for iOS Mobile App..
 
 # intro 
 ![Pic1](https://github.com/davidvela/MyFirstSAPiOSApp/blob/master/img/img1.png)
